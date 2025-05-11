@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0221-maximal-square) |
 | [0494-target-sum](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0740-delete-and-earn](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0967-minimum-falling-path-sum](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0967-minimum-falling-path-sum) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0139-word-break](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0139-word-break) |
 | [0516-longest-palindromic-subsequence](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 ## Backtracking
 |  |
 | ------- |
