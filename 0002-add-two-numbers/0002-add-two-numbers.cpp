@@ -12,49 +12,26 @@ class Solution {
 public:
     ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
         int carry = 0;
-        ListNode *ans =nullptr, *itr = ans;
-        while(l1 != nullptr && l2 != nullptr){
-            int x = l1->val + l2->val + carry;
-            carry = x/10;
-            x%=10;
-            if(itr==nullptr){
-                ans=new ListNode(x);
-                itr=ans;
-            }else{
+        ListNode *ans = nullptr, *itr = ans;
+        while (l1 != nullptr || l2 != nullptr || carry != 0) {
+            int x = carry;
+            if (l1 != nullptr)
+                x += l1->val;
+            if (l2 != nullptr)
+                x += l2->val;
+            carry = x / 10;
+            x %= 10;
+            if (itr == nullptr) {
+                ans = new ListNode(x);
+                itr = ans;
+            } else {
                 itr->next = new ListNode(x);
-                itr=itr->next;
+                itr = itr->next;
             }
-            l1=l1->next;
-            l2=l2->next;
-        }
-        while(l1 != nullptr){
-            int x = l1->val + carry;
-            carry = x/10;
-            x%=10;
-            if(itr==nullptr){
-                ans=new ListNode(x);
-                itr=ans;
-            }else{
-                itr->next = new ListNode(x);
-                itr=itr->next;
-            }
-            l1=l1->next;
-        }
-        while(l2 != nullptr){
-            int x = l2->val + carry;
-            carry = x/10;
-            x%=10;
-            if(itr==nullptr){
-                ans=new ListNode(x);
-                itr=ans;
-            }else{
-                itr->next = new ListNode(x);
-                itr=itr->next;
-            }
-            l2=l2->next;
-        }
-        if(carry){
-            itr->next = new ListNode(carry);
+            if (l1 != nullptr)
+                l1 = l1->next;
+            if (l2 != nullptr)
+                l2 = l2->next;
         }
         return ans;
     }
