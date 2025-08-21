@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0120-triangle](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0139-word-break) |
+| [0162-find-peak-element](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0221-maximal-square) |
 | [0494-target-sum](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0494-target-sum) |
@@ -142,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+## Binary Search
+|  |
+| ------- |
+| [0162-find-peak-element](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0162-find-peak-element) |
 <!---LeetCode Topics End-->
