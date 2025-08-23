@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/1013-fibonacci-number) |
+| [1014-k-closest-points-to-origin](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1236-n-th-tribonacci-number](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/1236-n-th-tribonacci-number) |
 ## Dynamic Programming
 |  |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0967-minimum-falling-path-sum](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0967-minimum-falling-path-sum) |
+| [1014-k-closest-points-to-origin](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
 ## Hash Table
 |  |
 | ------- |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
 ## Binary Search
 |  |
 | ------- |
@@ -174,16 +177,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0975-range-sum-of-bst](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0975-range-sum-of-bst) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
