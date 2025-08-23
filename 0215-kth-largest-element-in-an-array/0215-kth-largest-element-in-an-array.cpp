@@ -32,4 +32,12 @@ public:
     int findKthLargest(vector<int>& nums, int k) {
         return quickSelect(nums, 0, nums.size() - 1, k - 1);
     }
+    // int findKthLargest(vector<int>& nums, int k) {
+    //     priority_queue<int> maxHeap(nums.begin(), nums.end()); 
+    //     for (int i = 1; i < k; i++) {
+    //         maxHeap.pop();
+    //     }
+    //     return maxHeap.top();
+    // }
 };
+
