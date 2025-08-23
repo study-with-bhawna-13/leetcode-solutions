@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Backtracking
 |  |
 | ------- |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0071-simplify-path) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Sorting
 |  |
 | ------- |
