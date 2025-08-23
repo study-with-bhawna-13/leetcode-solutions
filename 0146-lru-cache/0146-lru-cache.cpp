@@ -42,8 +42,8 @@ public:
         if (m.find(key) != m.end()) {
             DLL *node = m[key];
             deleteNode(node);
-            addNode(node);
             node->value = value;
+            addNode(node);
         } else {
             if (m.size() == capacity) {
                 DLL* tmp = tail->prev;
