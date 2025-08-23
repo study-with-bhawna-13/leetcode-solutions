@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0139-word-break](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0139-word-break) |
+| [0146-lru-cache](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0740-delete-and-earn](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0740-delete-and-earn) |
 ## Combinatorics
 |  |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0146-lru-cache](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0146-lru-cache) |
 ## Sliding Window
 |  |
 | ------- |
@@ -147,4 +149,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0162-find-peak-element) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
