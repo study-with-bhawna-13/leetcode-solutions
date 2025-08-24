@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0221-maximal-square](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0221-maximal-square) |
 | [0494-target-sum](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0494-target-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0740-delete-and-earn](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0967-minimum-falling-path-sum](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0967-minimum-falling-path-sum) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0139-word-break](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0146-lru-cache) |
+| [0560-subarray-sum-equals-k](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0740-delete-and-earn](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0740-delete-and-earn) |
 ## Combinatorics
 |  |
@@ -215,4 +217,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/1171-shortest-path-in-binary-matrix) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
