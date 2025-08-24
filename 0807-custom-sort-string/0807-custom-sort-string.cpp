@@ -1,7 +1,6 @@
 class Solution {
 public:
-    string customSortString(string order, string st) {
-        vector<char> s(st.begin(), st.end());
+    string customSortString(string order, string s) {
         sort(s.begin(), s.end(), [&](char& a, char& b) {
             int x = order.find(a);
             if (x == string::npos)
@@ -11,10 +10,6 @@ public:
                 y = order.size();
             return x < y;
         });
-        string ans = "";
-        for (auto i : s) {
-            ans += i;
-        }
-        return ans;
+        return s;
     }
 };
