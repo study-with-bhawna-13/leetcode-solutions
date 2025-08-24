@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0560-subarray-sum-equals-k](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0740-delete-and-earn](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0740-delete-and-earn) |
+| [0807-custom-sort-string](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0807-custom-sort-string) |
 ## Combinatorics
 |  |
 | ------- |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0807-custom-sort-string](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0807-custom-sort-string) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Backtracking
 |  |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0807-custom-sort-string](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0807-custom-sort-string) |
 | [1014-k-closest-points-to-origin](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
 ## Binary Search
 |  |
