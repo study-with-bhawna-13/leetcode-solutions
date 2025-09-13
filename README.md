@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0227-basic-calculator-ii](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0912-random-pick-with-weight](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0912-random-pick-with-weight) |
 | [1013-fibonacci-number](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1236-n-th-tribonacci-number](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/1236-n-th-tribonacci-number) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0740-delete-and-earn](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0747-min-cost-climbing-stairs) |
+| [0912-random-pick-with-weight](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0912-random-pick-with-weight) |
 | [0967-minimum-falling-path-sum](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0967-minimum-falling-path-sum) |
 | [1014-k-closest-points-to-origin](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0162-find-peak-element](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0162-find-peak-element) |
+| [0912-random-pick-with-weight](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0912-random-pick-with-weight) |
 ## Design
 |  |
 | ------- |
@@ -232,4 +235,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0912-random-pick-with-weight](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0912-random-pick-with-weight) |
+## Randomized
+|  |
+| ------- |
+| [0912-random-pick-with-weight](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0912-random-pick-with-weight) |
 <!---LeetCode Topics End-->
