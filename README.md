@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0227-basic-calculator-ii](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0380-insert-delete-getrandom-o1](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0912-random-pick-with-weight](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0912-random-pick-with-weight) |
 | [1013-fibonacci-number](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0221-maximal-square](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0221-maximal-square) |
+| [0380-insert-delete-getrandom-o1](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0494-target-sum](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0498-diagonal-traverse) |
 | [0560-subarray-sum-equals-k](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0146-lru-cache) |
+| [0380-insert-delete-getrandom-o1](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0560-subarray-sum-equals-k](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0740-delete-and-earn](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0740-delete-and-earn) |
 | [0807-custom-sort-string](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0807-custom-sort-string) |
@@ -202,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0146-lru-cache) |
+| [0380-insert-delete-getrandom-o1](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -245,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Randomized
 |  |
 | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0912-random-pick-with-weight](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0912-random-pick-with-weight) |
 ## Merge Sort
 |  |
