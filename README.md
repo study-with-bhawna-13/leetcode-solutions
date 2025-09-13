@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0077-combinations](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0077-combinations) |
 | [0494-target-sum](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0494-target-sum) |
 ## Trie
 |  |
