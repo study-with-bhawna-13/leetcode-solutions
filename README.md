@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0133-clone-graph](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0146-lru-cache) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -259,4 +262,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0498-diagonal-traverse) |
+## Graph
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0133-clone-graph) |
 <!---LeetCode Topics End-->
