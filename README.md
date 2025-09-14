@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0224-basic-calculator](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0380-insert-delete-getrandom-o1](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0050-powx-n) |
+| [0224-basic-calculator](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/1013-fibonacci-number) |
 ## Array
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0139-word-break) |
+| [0224-basic-calculator](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0227-basic-calculator-ii) |
 | [0516-longest-palindromic-subsequence](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
@@ -196,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0071-simplify-path](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0071-simplify-path) |
 | [0173-binary-search-tree-iterator](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
+| [0224-basic-calculator](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0227-basic-calculator-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
