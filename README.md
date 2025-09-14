@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0071-simplify-path) |
+| [0173-binary-search-tree-iterator](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0227-basic-calculator-ii](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0227-basic-calculator-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
@@ -213,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0146-lru-cache) |
+| [0173-binary-search-tree-iterator](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0380-insert-delete-getrandom-o1](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 ## Doubly-Linked List
 |  |
@@ -238,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0975-range-sum-of-bst](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0975-range-sum-of-bst) |
 ## Geometry
 |  |
@@ -272,4 +277,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0133-clone-graph) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
