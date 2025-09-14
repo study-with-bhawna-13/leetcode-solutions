@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0129-sum-root-to-leaf-numbers](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0173-binary-search-tree-iterator](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0129-sum-root-to-leaf-numbers](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0133-clone-graph](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0129-sum-root-to-leaf-numbers](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0173-binary-search-tree-iterator](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
