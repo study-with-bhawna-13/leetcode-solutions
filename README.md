@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0807-custom-sort-string](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0807-custom-sort-string) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Backtracking
 |  |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Linked List
 |  |
 | ------- |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0071-simplify-path](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0071-simplify-path) |
 | [0227-basic-calculator-ii](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0227-basic-calculator-ii) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Sorting
 |  |
