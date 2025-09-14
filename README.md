@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0967-minimum-falling-path-sum) |
 | [1014-k-closest-points-to-origin](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1539-diagonal-traverse-ii](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/1539-diagonal-traverse-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0807-custom-sort-string](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0807-custom-sort-string) |
 | [1014-k-closest-points-to-origin](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1539-diagonal-traverse-ii](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/1539-diagonal-traverse-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
+| [1539-diagonal-traverse-ii](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/1539-diagonal-traverse-ii) |
 ## Quickselect
 |  |
 | ------- |
