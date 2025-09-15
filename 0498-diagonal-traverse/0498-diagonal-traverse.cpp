@@ -1,37 +1,30 @@
+#include <bits/stdc++.h>
+using namespace std;
+
 class Solution {
 public:
     vector<int> findDiagonalOrder(vector<vector<int>>& mat) {
-        int m = mat.size();
-        int n = mat[0].size();
-        vector<int> ans;
-        int i = 0, j = 0;
-        bool up = true;
-        while (ans.size() < m * n) {
-            ans.push_back(mat[i][j]);
-            if (up) {
-                if (j == n - 1) {
-                    i++;
-                    up = false;
-                } else if (i == 0) {
-                    j++;
-                    up = false;
-                } else {
-                    i--;
-                    j++;
+        int n = mat.size();
+        if (n == 0) return {};
+        int m = mat[0].size();
+        vector<int> result;
+        for (int d = 0; d <= n + m - 2; d++) {
+            if (d % 2 == 0) {
+                int i = min(d, n - 1);
+                int j = d - i;
+                while (i >= 0 && j < m) {
+                    result.push_back(mat[i][j]);
+                    i--; j++;
                 }
             } else {
-                if (i == m - 1) {
-                    j++;
-                    up = true;
-                } else if (j == 0) {
-                    i++;
-                    up = true;
-                } else {
-                    i++;
-                    j--;
+                int j = min(d, m - 1);
+                int i = d - j;
+                while (i < n && j >= 0) {
+                    result.push_back(mat[i][j]);
+                    i++; j--;
                 }
             }
         }
-        return ans;
+        return result;
     }
 };
