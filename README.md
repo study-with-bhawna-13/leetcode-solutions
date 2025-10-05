@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0072-edit-distance) |
 | [0120-triangle](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0221-maximal-square) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0088-merge-sorted-array](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0120-triangle](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0139-word-break) |
 | [0162-find-peak-element](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/study-with-bhawna-13/leetcode-solutions/tree/master/0198-house-robber) |
